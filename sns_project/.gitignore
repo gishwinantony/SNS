@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# PyCharm IDE project files
+.idea/
+
+# Python cache files
+**/__pycache__/
