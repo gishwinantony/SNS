@@ -1,4 +1,4 @@
-# Django Sns Project
+# Django SNS Project
 
 ## Project Setup
 
@@ -15,8 +15,8 @@ Ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/gishwinantony/Sns.git
-cd Sns/sns_project
+git clone https://github.com/gishwinantony/SNS.git
+cd SNS/sns_project
 
 # Create a virtual environment
 python -m venv venv
